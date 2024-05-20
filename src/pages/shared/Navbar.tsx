@@ -16,7 +16,7 @@ const Navbar = () => {
     },
     {
         id: 3,
-        link: "all-supplies",
+        link: "supplies",
     },
     {
         id: 4,
@@ -31,9 +31,10 @@ const Navbar = () => {
     return (
     <div className="flex justify-between items-center w-full h-20 px-4 border-b border-b-gray-300 bg-white sticky top-0">
         <div>
-            <h1 className="text-4xl">FoodFlow</h1>
+            <h1 className="text-4xl font-semibold">FoodFlow</h1>
         </div>
 
+        <div className="md:flex items-center gap-6">
         <ul className="hidden md:flex">
             {links.map(({ id, link }) => (
             <li
@@ -49,6 +50,8 @@ const Navbar = () => {
             </li>
             ))}
         </ul>
+        <button className='px-6 py-2.5 text-white bg-[#212121] font-medium rounded-lg'>Login</button>
+        </div>
 
         <div
             onClick={() => setNav(!nav)}

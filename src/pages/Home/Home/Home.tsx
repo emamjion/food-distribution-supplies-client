@@ -1,7 +1,17 @@
+import Banner from "./Banner";
+import Gallery from "./Gallery";
+import SuppliesSection from "./SuppliesSection";
+import Testimonial from "./Testimonial";
+import WhoWeAre from "./WhoWeAre";
+
 const Home = () => {
     return (
         <div>
-            <h1>Home Page</h1>
+            <Banner/>
+            <SuppliesSection/>
+            <Testimonial/>
+            <Gallery/>
+            <WhoWeAre/>
         </div>
     );
 };

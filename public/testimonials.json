@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Emily Davis",
+      "image" : "https://i.ibb.co/fXMNdjY/donor-1.png",
+      "testimonial": "The Food Distribution and Supply Management System has revolutionized our donation process. It's incredibly efficient and ensures that our contributions reach those in need swiftly. ",
+      "date": "2024-05-01"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "image" : "https://i.ibb.co/0Q1Rb8r/donor-2.png",
+      "testimonial": "I am thoroughly impressed with how this system has improved our supply chain management. It's a game changer for our organization, making our distribution efforts more effective and organized. ",
+      "date": "2024-05-03"
+    },
+    {
+      "id": 3,
+      "name": "Helena Halim",
+      "image" : "https://i.ibb.co/k0sWQ6X/donor-3.png",
+      "testimonial": "This platform has made it so much easier to ensure our donations get to where they're needed most. The transparency and efficiency are top-notch, providing detailed insights into the impact of our contributions. ",
+      "date": "2024-05-05"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Wilson",
+      "image" : "https://i.ibb.co/SwX9bQN/donor-4.png",
+      "testimonial": "As a donor, I appreciate the detailed reports and updates on how our contributions are used. It makes us feel confident that our donations are making a real impact. ",
+      "date": "2024-05-07"
+    },
+    {
+      "id": 5,
+      "name": "Chris Brown",
+      "image" : "https://i.ibb.co/2h7hhfK/donor-5.png",
+      "testimonial": "The Food Distribution and Supply Management System is a fantastic tool that has significantly improved our distribution logistics and reduced waste. ",
+      "date": "2024-05-10"
+    },
+    {
+      "id": 6,
+      "name": "John Doe",
+      "image" : "https://i.ibb.co/vQntH2h/donor-6.png",
+      "testimonial": "I highly recommend this system to any organization involved in food distribution. It's efficient, user-friendly, and really makes a difference in getting food to those in need. ",
+      "date": "2024-05-12"
+    }
+  ]
