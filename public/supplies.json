@@ -1,87 +1,122 @@
 [
-    {
-      "id": 1,
-      "image": "https://i.ibb.co/N1TdR1J/1.png",
-      "title": "Rice",
-      "category": "Food",
-      "quantity": "50 kg"
-    },
-    {
-      "id": 2,
-      "image": "https://i.ibb.co/xD3LXcz/8.png",
-      "title": "Soap",
-      "category": "Hygiene Products",
-      "quantity": "10 bars"
-    },
-    {
-      "id": 3,
-      "image": "https://i.ibb.co/mBGTYvy/3.png",
-      "title": "Diapers",
-      "category": "Baby Essentials",
-      "quantity": "100 pieces"
-    },
-    {
-      "id": 4,
-      "image": "https://i.ibb.co/XWfrh69/4.png",
-      "title": "Canned Beans",
-      "category": "Food",
-      "quantity": "20 cans"
-    },
-    {
-      "id": 5,
-      "image": "https://i.ibb.co/R944wmT/5.png",
-      "title": "Toothpaste",
-      "category": "Hygiene Products",
-      "quantity": "5 tubes"
-    },
-    {
-      "id": 6,
-      "image": "https://i.ibb.co/M7rJM5j/6.png",
-      "title": "Baby Formula",
-      "category": "Baby Essentials",
-      "quantity": "12 cans"
-    },
-    {
-      "id": 7,
-      "image": "https://i.ibb.co/sqTtyzP/7.png",
-      "title": "Pasta",
-      "category": "Food",
-      "quantity": "10 kg"
-    },
-    {
-      "id": 8,
-      "image": "https://i.ibb.co/f0x8WFd/9.png",
-      "title": "Shampoo",
-      "category": "Hygiene Products",
-      "quantity": "3 bottles"
-    },
-    {
-      "id": 9,
-      "image": "https://i.ibb.co/smjXrrp/10.png",
-      "title": "Baby Wipes",
-      "category": "Baby Essentials",
-      "quantity": "150 wipes"
-    },
-    {
-      "id": 10,
-      "image": "https://i.ibb.co/7VFzQzn/11.png",
-      "title": "Cereal",
-      "category": "Food",
-      "quantity": "5 boxes"
-    },
-    {
-      "id": 11,
-      "image": "https://i.ibb.co/SXvvJV2/12.png",
-      "title": "Hand Sanitizer",
-      "category": "Hygiene Products",
-      "quantity": "8 bottles"
-    },
-    {
-      "id": 12,
-      "image": "https://i.ibb.co/brGjjfL/13.png",
-      "title": "Baby Clothes",
-      "category": "Baby Essentials",
-      "quantity": "20 outfits"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/N1TdR1J/1.png",
+    "title": "Rice",
+    "category": "Food",
+    "quantity": "50 kg",
+    "description1": "High-quality rice for various meals, ensuring essential nutrition. Sourced from trusted suppliers for the best taste and quality.",
+    "description2": "Ideal for simple dishes or elaborate feasts, offering satisfaction and nourishment.",
+    "description3": "Versatile and reliable, cooks to a fluffy texture, perfect for a variety of cuisines."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/xD3LXcz/8.png",
+    "title": "Soap",
+    "category": "Hygiene Products",
+    "quantity": "10 bars",
+    "description1": "Effective soap bars for cleanliness, suitable for daily use. Made with skin-friendly ingredients for healthy skin.",
+    "description2": "Gentle on all skin types, providing a thorough cleanse without dryness or irritation.",
+    "description3": "Produces a rich lather, rinses off easily, leaving skin soft and smooth."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/mBGTYvy/3.png",
+    "title": "Diapers",
+    "category": "Baby Essentials",
+    "quantity": "100 pieces",
+    "description1": "Comfortable diapers for dryness and protection. Made with soft, breathable materials and secure fasteners.",
+    "description2": "Ideal for day and night use, ensuring leak protection and healthy, rash-free skin.",
+    "description3": "Superior absorbency and contoured shape for freedom of movement and reliable protection."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/XWfrh69/4.png",
+    "title": "Canned Beans",
+    "category": "Food",
+    "quantity": "20 cans",
+    "description1": "Nutritious canned beans, rich in protein and fiber. Perfect for soups, stews, salads, or as a side dish.",
+    "description2": "Versatile pantry staple suitable for the whole family, offering wholesome meal options.",
+    "description3": "Convenient and nutritious, adding plant-based protein to your diet."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/R944wmT/5.png",
+    "title": "Toothpaste",
+    "category": "Hygiene Products",
+    "quantity": "5 tubes",
+    "description1": "Fluoride toothpaste for cavity prevention and dental health. Provides a deep clean and fresh breath.",
+    "description2": "Strengthens enamel, fights plaque, suitable for the entire family.",
+    "description3": "Essential for daily oral hygiene routine, ensuring healthy teeth and gums."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/M7rJM5j/6.png",
+    "title": "Baby Formula",
+    "category": "Baby Essentials",
+    "quantity": "12 cans",
+    "description1": "Nutritious formula for infant growth and development. Contains essential vitamins and minerals.",
+    "description2": "Easy to digest, promoting a healthy immune system for babies.",
+    "description3": "Ideal for supplementing breastfeeding or as a complete meal option."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/sqTtyzP/7.png",
+    "title": "Pasta",
+    "category": "Food",
+    "quantity": "10 kg",
+    "description1": "Versatile pasta for various dishes, offering energy and nutrition. Made from high-quality durum wheat.",
+    "description2": "Cooks to a perfect al dente texture, suitable for a wide range of recipes.",
+    "description3": "Pantry essential for every household, perfect for quick and easy meals."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/f0x8WFd/9.png",
+    "title": "Shampoo",
+    "category": "Hygiene Products",
+    "quantity": "3 bottles",
+    "description1": "Gentle shampoo for clean and healthy hair, suitable for all hair types. Enriched with nourishing ingredients.",
+    "description2": "Maintains natural balance, leaving hair soft, shiny, and manageable.",
+    "description3": "Perfect for daily use, ensuring clean and refreshed hair."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/smjXrrp/10.png",
+    "title": "Baby Wipes",
+    "category": "Baby Essentials",
+    "quantity": "150 wipes",
+    "description1": "Soft and gentle wipes for easy cleaning, ideal for sensitive baby skin. Hypoallergenic and free from harsh chemicals.",
+    "description2": "Perfect for diaper changes, mealtime cleanups, and on-the-go messes.",
+    "description3": "A must-have for parents, ensuring convenient and safe hygiene for babies."
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/7VFzQzn/11.png",
+    "title": "Cereal",
+    "category": "Food",
+    "quantity": "5 boxes",
+    "description1": "Nutritious cereal for a healthy breakfast, packed with vitamins and minerals. Balanced combination of whole grains.",
+    "description2": "Delicious and wholesome option for starting the day right.",
+    "description3": "Quick and easy to prepare, perfect for busy mornings."
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/SXvvJV2/12.png",
+    "title": "Hand Sanitizer",
+    "category": "Hygiene Products",
+    "quantity": "8 bottles",
+    "description1": "Effective hand sanitizer to kill germs and bacteria, ensuring clean and hygienic hands on the go.",
+    "description2": "Contains high alcohol content for maximum germ-killing power, gentle on the skin.",
+    "description3": "Convenient and portable, perfect for use in public spaces or during travel."
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/brGjjfL/13.png",
+    "title": "Baby Clothes",
+    "category": "Baby Essentials",
+    "quantity": "20 outfits",
+    "description1": "Comfortable and adorable baby clothes, made from soft and breathable fabric. Perfect for everyday wear.",
+    "description2": "Designed to be gentle on your baby’s skin while providing ease of movement.",
+    "description3": "Ensure your baby stays stylish and comfortable in these cute and practical outfits."
+  }
+]
