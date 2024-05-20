@@ -50,7 +50,9 @@ const Navbar = () => {
             </li>
             ))}
         </ul>
-        <button className='px-6 py-2.5 text-white bg-[#212121] font-medium rounded-lg'>Login</button>
+        <Link to='/login'>
+            <button className='px-6 py-2.5 text-white bg-[#212121] font-medium rounded-lg'>Login</button>
+        </Link>
         </div>
 
         <div

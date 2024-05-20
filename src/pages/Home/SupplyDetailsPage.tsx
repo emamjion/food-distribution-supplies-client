@@ -29,7 +29,9 @@ const SupplyDetailsPage = () => {
                             <p className="text-lg font-medium">Quantity :</p>
                                 <span className="text-lg font-semibold ml-2">{quantity}</span>
                             </div>
-
+                        </div>
+                        <div className="mt-16">
+                            <button className='px-4 py-2.5 text-white bg-[#212121] font-medium rounded-lg'>Donate Now</button>
                         </div>
                     </div>
                 </div>
